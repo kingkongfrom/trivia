@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "question": "If you were buying coffee grounds for a turkish press, what would you buy?",
+      "options": [
+        "Very finely ground coffee",
+        "Coffee ground for a basket filter",
+        "Very coarsely ground coffee",
+        "Coffee for an espresso machine"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Coffee plants originated on what continent over 1000 years ago?",
+      "options": [
+        "Africa",
+        "Europe",
+        "South America",
+        "Asia"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How many pounds of coffee beans will one coffee plant produce in a year?",
+      "options": [
+        "1-2 pounds",
+        "5 pounds",
+        "6 pounds",
+        "8 pounds"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Coffee cultivation began in which century?",
+      "options": [
+        "The twentieth century",
+        "The eighteenth century",
+        "The tenth century, bc",
+        "The fifteenth century"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What country is the world's largest producer of coffee, producing 35% of all coffee consumed?",
+      "options": [
+        "Guatemala",
+        "Colombia",
+        "Brazil",
+        "The United States"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the fruit of the coffee plant called?",
+      "options": [
+        "The coffee cherry",
+        "The seed",
+        "The fruit",
+        "The coffee bean"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What percentage of the contents of a cup of black coffee is water?",
+      "options": [
+        "90%",
+        "98%",
+        "95%",
+        "75%"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "What type of plant does the coffee bean come from?",
+      "options": [
+        "A perennial",
+        "An annual",
+        "An evergreen tree",
+        "A shrub"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "\nin what year was the first coffee tree grown in the first european greenhouse?",
+      "options": [
+        "1875",
+        "1492",
+        "1715",
+        "1812"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Where does arabica coffee originate?",
+      "options": [
+        "Qatar",
+        "Ethiopia",
+        "Italy",
+        "Arabia"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "Who brought coffee cultivation to their colonies in java and sumatra?",
+      "options": [
+        "The Portuguese",
+        "The British",
+        "The Dutch",
+        "The French"
+      ],
+      "correctOption": 2,
+      "points": 30
+    }
+  ]
+}
