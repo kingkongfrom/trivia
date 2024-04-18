@@ -70,8 +70,6 @@ const reducer = (state, action) => {
                 ...state,
                 secondsRemaining: state.secondsRemaining -1,
                 status: state.secondsRemaining === 0 ? "finished" : state.status,
-
-
             }
         default:
             throw new Error("Error while fetching data");
@@ -87,7 +85,7 @@ const App = () => {
         try {
             const res = await fetch("https://api.jsonbin.io/v3/b/65539cf654105e766fcff424", {
                 headers: {
-                    "X-MASTER-KEY": "$2a$10$pBfQBuBmhpzmJY0gM2Wb8uxwNLLKwc923QGUbemzeC42WWJecbayO",
+                    "X-MASTER-KEY": "$2a$10$iE2ClTTmohsyQ9gxMWOK4eLCXLiXGT4yk7Z0DHQRJxA/NZY/OFKBa",
                 },
             });
 
